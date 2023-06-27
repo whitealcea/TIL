@@ -50,3 +50,8 @@ We suggest that you begin by typing:
 
 username@yMac git % 
 ```
+
+
+## Typescript 適用参考
+- [React + TypeScript: Next入門01 チュートリアルの作例を一からつくってみる - Qiita](https://qiita.com/FumioNonaka/items/37ad26dab7e5051f672e)
+- [TypeScript | Learn Next.js](https://nextjs.org/learn/excel/typescript)
